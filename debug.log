@@ -1,0 +1,3 @@
+[1011/224425.042:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
+[1012/002615.981:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Kenonium\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\f89a3814-ec63-4d25-8319-0318ad3f3a9f: Impossibile trovare il percorso specificato. (0x3)
+[1014/234330.028:ERROR:directory_reader_win.cc(43)] FindFirstFile: Impossibile trovare il percorso specificato. (0x3)
